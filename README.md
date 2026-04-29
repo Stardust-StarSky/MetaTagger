@@ -13,7 +13,7 @@ A modern, cross-platform music metadata editor with Windows 11-style design, sup
 
 ## 📸 Screenshot
 
-![Main Interface Preview](screenshot.png)
+![Main Interface Preview](Screenshot/screenshot.png)
 
 ## 🚀 Quick Start
 
